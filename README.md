@@ -3,3 +3,4 @@
 - analysis every single approaches, techniques
 - analysis differences which comes out from the approaches.
 - analysis model performance in imbalane dataset 
+- data is taken from kaggle ( link is https://www.kaggle.com/c/ieee-fraud-detection )
